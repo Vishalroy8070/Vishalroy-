@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Quality ",
+  "description": "An application that uses AI to apply professional-quality effects and enhancements to your photos. Upload an image, choose an effect like 'Cinematic' or 'Studio Lighting', and let the AI transform your picture.",
+  "requestFramePermissions": []
+}
